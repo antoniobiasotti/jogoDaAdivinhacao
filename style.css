@@ -1,0 +1,14 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    background: linear-gradient(287.56deg, #C2E9FB 0%, #A1C4FD 100%);
+    font-size: 1.6rem;
+}
+
+main {
+    background: #E1E1E6;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+}
